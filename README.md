@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS, JavaScript and Solidity!
 - 💞️ I’m looking to collaborate on Blockchain related projects and web3.0
 - 📫 How to reach me: duruconfidence1@gmail.com,Twitter:Duruconfidence2!
-- fun-fact:  i'm a philomath(i love learning new things constantly, i'm not any way restricted to my college major), i love reading, i write a lot, inlove music too, i'm an intovert and i love the act of meditation.
+- fun-fact:  i'm a philomath(i love learning new things constantly, i'm not any way restricted to my college major), i love reading, i write a lot, i love music too, i'm an intovert and i love the act of meditation.
 
 <!---
 Duruconfidence001/Duruconfidence001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
