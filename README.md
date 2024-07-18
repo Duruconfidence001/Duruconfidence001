@@ -1,6 +1,6 @@
 [![MasterHead](https://www.pinterest.com/pin/1049127675664673846/)](https://www.pinterest.com/pin/1049127675664673846/)
-<h1 align="center">Hi 👋, I'm Dr. Duru Confidence</h1>
-<h3 align="center">A passionate blockchain software developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Dr. Duru </h1>
+<h3 align="center">A smart contract developer, researcher and smart contract auditor </h3>
 <img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/p8GmCEgSmmo>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duruconfidence001&label=Profile%20views&color=0e75b6&style=flat" alt="duruconfidence001" /> </p>
